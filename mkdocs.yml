@@ -1,5 +1,8 @@
 site_name: ZJU-EEC
-site_author: ZJU-EEC
+site_author: ZJU-EEC-2428学长组
+
+repo_name: ZJU-EEC-2428学长组
+repo_url: https://github.com/ZJU-EEC/EEC-Courses
 
 theme:
   name: material
@@ -96,6 +99,12 @@ markdown_extensions:
     - meta # 支持Markdown文件上方自定义标题标签等
     - tables
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/ZJU-EEC/EEC-Courses
+      name: ZJU-EEC
+
 nav:
   - 主页: index.md
   - 入学须知: guide/README.md
@@ -108,7 +117,8 @@ nav:
     - 竞赛: cur_234\contest.md
     - 志愿活动: cur_234\volunteer.md
   - 评奖评优: prize/prize.md
-  - 学生组织和社团: groups/groups.md
+  - 学生组织和社团: 
+    - 学生组织概述: groups\xueshengzuzhi.md
+    - 社团事项: groups\shetuan.md
   - 转专业: switch/switch_major.md
   - 杂项: misc/README.md
- 
