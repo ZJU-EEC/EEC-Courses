@@ -118,8 +118,11 @@ nav:
     - 志愿活动: cur_234\volunteer.md
   - 评奖评优: prize/prize.md
   - 学生组织和社团: 
-    - 学生组织概述: groups\organizations.md
-    - 社团事项: groups\communities.md
+    - 学生组织: groups/organizations.md
+    - 社团事项: groups/communities.md
+    - 面试经验: groups/interview.md
+  - 选课: choose/choose.md
+  - 专业: major\major.md
   - 转专业: switch/switch_major.md
   - 工具:
     - PC入门指南: tools\CSbegin.md
