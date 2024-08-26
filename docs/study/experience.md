@@ -9,7 +9,7 @@
 **二、** 可以尝试培养一下如何迅速学习一个陌生领域的能力。以后无论是打竞赛还是甚至到研究生阶段做科研，快速学习能力都是非常重要的。比如大部分工试同学在大一春夏学期要修的工程训练，基本上就是让你在课上比较有限的时间内迅速学习一个陌生的技术并完成一些任务。（顺便推荐大家可以去试试大一春夏学期开始的工高班选拔，我们学长组有几位学长学姐都是工高班的）。
 
 **三、** 强烈安利一下
-<iframe src="/pdfjs-4.5.136-dist/web/viewer.html?file=/study/kjgg.pdf" width="100%" height="600px"></iframe>
+<iframe src="/pdfjs-4.5.136-dist/web/viewer.html?file=/kjgg.pdf" width="100%" height="600px"></iframe>
 
 
 
