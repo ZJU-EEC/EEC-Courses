@@ -2,7 +2,7 @@
 
 ## 选课操作
 
-参考[新生指引-选课](https://mini-full.github.io/zju-welcome/course_sys/enroll/)和[图灵班选课指南](https://turing2024.tonycrane.cc/course_selection/)(不过图灵课程和我们不太一样)
+参考[新生指引-选课](https://mini-full.github.io/zju-welcome/course_sys/enroll/)和[图灵班选课指南](https://turing2024.tonycrane.cc/course_selection/)（不过图灵课程和我们不太一样）
 
 ## 术语解读
 

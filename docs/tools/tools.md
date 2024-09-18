@@ -18,9 +18,9 @@
 - Xmind
 制作思维导图的软件
 - Mkdocs
-搭建个人笔记网站，便于整合和上传学习资料
+搭建个人笔记网站，便于整合和上传学习资料（我们的学长组网站就是用的Mkdocs）
 - Hexo
-搭建个人博客，主题丰富多元(附上[fwj学长的博客](https://hamilton2718.github.io/))
+搭建个人博客，主题丰富多元（附上[fwj学长的博客](https://hamilton2718.github.io/)）
 
 ### **文献类**
 
@@ -28,6 +28,7 @@
 
 - Overleaf
 在线的latex编辑器
+推荐阅读[迈出Latex第一步](https://www.cc98.org/topic/5929587)，帖子还提供课程论文和实验报告等模板
 - Zotero
 文献管理软件
 
